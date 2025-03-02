@@ -1,6 +1,6 @@
 {
 	"info": {
-		"_postman_id": "f3a1b5d2-89c4-4e0f-92b6-7e8d9f4c6a32"
+		"_postman_id": "f3a1b5d2-89c4-4e0f-92b6-7e8d9f4c6a32",
 		"name": "Local AEP API Setup ",
 		"description": "Set of Postman calls for the Data Platform AEP API",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
